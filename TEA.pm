@@ -65,7 +65,8 @@ number of rounds (32 is recommended). It has a low setup time, and
 depends on a large number of rounds for security, rather than a complex
 algorithm. It was developed by David J. Wheeler and Roger M. Needham,
 and is described at
-<http://www.ftp.cl.cam.ac.uk/ftp/papers/djw-rmn/djw-rmn-tea.html>.
+L<https://web-beta.archive.org/web/20131226114205/http://www.ftp.cl.cam.
+ac.uk:80/ftp/papers/djw-rmn/djw-rmn-tea.html>.
 
 This module implements TEA encryption. It supports the Crypt::CBC
 interface, with the following functions.
@@ -102,7 +103,8 @@ plaintext.
 
 =head1 SEE ALSO
 
-<http://www.vader.brad.ac.uk/tea/tea.shtml>
+L<https://web-beta.archive.org/web/20030208020932/http://www.vader.brad.ac.uk/
+tea/tea.shtml>
 
 Crypt::CBC, Crypt::Blowfish, Crypt::DES
 
@@ -133,4 +135,4 @@ Abhijit Menon-Sen <ams@wiw.org>
 Copyright 2001 Abhijit Menon-Sen. All rights reserved.
 
 This software is distributed under the terms of the Artistic License
-<URL:http://ams.wiw.org/code/artistic.txt>.
+L<https://dev.perl.org/licenses/artistic.html>.
